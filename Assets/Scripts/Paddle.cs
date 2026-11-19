@@ -1,3 +1,5 @@
+// Copyright Sylvain Michel René Nowé 2026
+
 using System.Collections;
 using TMPro;
 using UnityEngine;
